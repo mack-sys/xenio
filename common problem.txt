@@ -1,0 +1,39 @@
+Two Sum Problem: Given an array of integers and a target sum, find two numbers in the array that add up to the target sum.
+
+Three Sum Problem: Given an array of integers, find all unique triplets in the array that add up to a specific target sum.
+
+Four Sum Problem: Given an array of integers, find all unique quadruplets in the array that add up to a specific target sum.
+
+Subarray Sum Equals K: Given an array of integers, find the total number of continuous subarrays whose sum equals a specific target sum.
+
+Longest Subarray with Sum K: Given an array of integers, find the length of the longest subarray with a sum equal to a specific target sum.
+
+Two Sum IV - Input is a BST: Given a Binary Search Tree and a target value, determine whether there are two elements in the BST that add up to the target value.
+
+Majority Element: Find the majority element (appears more than n/2 times) in an array of integers.
+
+Group Anagrams: Given an array of strings, group the anagrams together.
+
+First Unique Character in a String: Find the first non-repeating character in a string.
+
+Valid Anagram: Determine if two strings are anagrams of each other.
+
+Word Pattern: Given a pattern and a string, determine if the string follows the same pattern.
+
+Isomorphic Strings: Determine if two strings are isomorphic (i.e., the characters in one string can be replaced to get the other string).
+
+Fraction to Recurring Decimal: Convert a fraction to a recurring decimal, and return it as a string.
+
+LRU Cache: Implement a least recently used (LRU) cache using a combination of HashMap and Doubly Linked List.
+
+Copy List with Random Pointer: Make a deep copy of a linked list with next and random pointers.
+
+Count of Subarrays with XOR: Given an array of integers, find the number of subarrays with a specific XOR value.
+
+Longest Consecutive Sequence: Find the length of the longest consecutive elements sequence in an unsorted array.
+
+Happy Number: Determine if a number is a happy number, where the sum of the squares of its digits eventually becomes 1.
+
+Fraction Addition and Subtraction: Perform addition and subtraction operations on fractions.
+
+Custom Key Lookup: Create a custom data structure for efficient key-value pair lookup and retrieval.
